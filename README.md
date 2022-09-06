@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey buddy 👋
 I’m currently working on DePCSuite - Full Stack Developer, currently learning python and my instagram is Waffi_503
 
 <!--
