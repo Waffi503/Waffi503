@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DePCSuite**
 
-- 🌱 I’m currently learning **Python, TypeScript**
+- 🌱 I’m currently learning **TypeScript**
 
 
 <br>
