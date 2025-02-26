@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Brandan</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Mappa.ai**
+- 🔭 I’m currently working on **DePC Suite**
 
 - 🌱 I’m currently learning **TypeScript**
 
